@@ -1,6 +1,23 @@
 # Ignite Challenge - A shopcart with hooks and localStorage
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/murilosambuite/"> 
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="sambuite`s linkedIn"
+    />
+  </a>
+</p>
+
+> App developed at [Rocketseat Ignite](https://www.rocketseat.com.br/ignite).
+
 ## :camera: Visual Demo
+
+<p align="center">
+   <img src=".github/logo.svg" width="300"/>
+</p>
+
+<br />
 
 <p align="center">
   <img align="center" src=".github/image-1.png" border="0">
