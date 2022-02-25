@@ -93,7 +93,7 @@ Clone this repository
 ```
   git clone https://github.com/sambuite/desafio-hook-carrinho-de-compras.git
 
-  cd dtmoney
+  cd desafio-hook-carrinho-de-compras
 ```
 
 Run the following scripts
