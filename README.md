@@ -88,7 +88,7 @@
 ### Step by step to run the application on your machine:
 
 Clone this repository
-(You will git installed) :
+(You will need git installed) :
 
 ```
   git clone https://github.com/sambuite/desafio-hook-carrinho-de-compras.git
